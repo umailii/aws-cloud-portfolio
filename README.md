@@ -7,7 +7,7 @@ I'm a Computer Information Systems & Technology student building hands-on cloud 
 
 ## Projects
 
-| # | Project | Description | Tech Stack | Status |
+| # | Project | Description | Tech Stack | Status | Complete |
 |---|---------|-------------|------------|--------|
 | 1 | [AWS S3 File Uploader](./s3-file-uploader) | A Python command-line tool that creates S3 buckets, uploads files, lists objects, and handles AWS credential errors gracefully. | Python, boto3, AWS S3
 
