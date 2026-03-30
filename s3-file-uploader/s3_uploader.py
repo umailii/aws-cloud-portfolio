@@ -4,7 +4,7 @@ from botocore.exceptions import NoCredentialsError, ClientError
 
 # ============================================================
 # S3 File Uploader
-# Author: [Your Name] | CIST Student | 3rd Year
+# Author: Umair Ali | CIST Student | 3rd Year
 # Project: AWS S3 File Uploader (Portfolio Project #1)
 # ============================================================
 
